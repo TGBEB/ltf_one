@@ -76,9 +76,9 @@ WSGI_APPLICATION = 'ltf_one.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
+        'NAME': 'lover',
         'USER': 'postgres',
-        'PASSWORD': '92009gtk9',
+        'PASSWORD': 'postgres',
         'HOST': 'localhost',
         'PORT': '5432',
     }
